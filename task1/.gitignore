@@ -1,0 +1,16 @@
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Terraform plan files
+*.tfplan
+
+# Local Terraform directories
+*.terraform/
+
+# Sensitive files
+*.pem
+*.key
+
+# Crash logs
+crash.log
