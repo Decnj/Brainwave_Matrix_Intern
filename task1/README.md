@@ -39,5 +39,5 @@ terraform init
 terraform plan
 terraform apply
 
-# NOTE: You can visit the EC2 instance's public ip in your browser to see the webpage
+NOTE: You can visit the EC2 instance's public ip in your browser to see the webpage
 
