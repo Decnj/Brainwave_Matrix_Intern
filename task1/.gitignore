@@ -4,6 +4,7 @@
 
 # Terraform plan files
 *.tfplan
+tfplan
 
 # Local Terraform directories
 *.terraform/
